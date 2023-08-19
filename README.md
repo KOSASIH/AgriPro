@@ -27,7 +27,6 @@ Whether you're a seasoned farmer or a budding gardener, AgriPro's intuitive inte
 
 # Vision and Mission 
 
-Absolutely, here's a sample vision and mission statement for the AgriPro app:
 
 **Vision:**
 To empower gardeners and farmers worldwide with cutting-edge technology, knowledge, and resources, creating a greener and more sustainable planet through successful plant care and cultivation.
