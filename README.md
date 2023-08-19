@@ -35,3 +35,24 @@ To empower gardeners and farmers worldwide with cutting-edge technology, knowled
 **Mission:**
 Our mission is to revolutionize the way people engage with their plants, gardens, and farms. We strive to provide a comprehensive and user-friendly platform that equips users with accurate disease identification, expert treatment recommendations, educational resources, and community interaction. Through AgriPro, we aim to foster a global community of passionate plant enthusiasts, promoting healthier plants, sustainable practices, and a deeper connection to nature.
 
+# The Problem we want to solve 
+
+Here are some of the problems that the AgriPro app aims to address:
+
+1. **Plant Disease Identification and Treatment:** Many gardeners and farmers struggle with identifying plant diseases accurately, leading to ineffective or inappropriate treatments. AgriPro aims to solve this problem by providing a reliable and accessible tool for identifying plant diseases and offering tailored treatment recommendations.
+
+2. **Lack of Knowledge and Resources:** Gardeners and farmers often face challenges due to limited access to relevant information and resources. AgriPro seeks to bridge this gap by offering a comprehensive library of articles, videos, and tutorials covering a wide range of gardening and farming topics.
+
+3. **Community Isolation:** Gardening and farming can sometimes be isolating endeavors, with individuals lacking a platform to connect with like-minded enthusiasts and seek advice. AgriPro intends to create a thriving online community where users can interact, share experiences, and support each other.
+
+4. **Sustainability and Eco-Friendly Practices:** Many individuals are eager to adopt sustainable and eco-friendly practices in their gardening and farming activities but lack guidance on how to do so effectively. AgriPro aims to provide resources and tools that promote environmentally conscious practices.
+
+5. **Inefficient Garden Planning and Design:** Designing an optimal garden layout can be challenging, especially for those new to gardening. AgriPro aims to simplify garden planning and design by offering interactive tools and features to help users create well-organized and aesthetically pleasing gardens.
+
+6. **Lack of Timely Alerts:** Seasonal changes, pest outbreaks, and disease prevalence can impact plant health. AgriPro seeks to provide timely alerts and recommendations to users, ensuring they take proactive measures to protect their plants.
+
+7. **Lack of Progress Tracking:** Keeping track of plant growth, treatments, and improvements over time can be complex without a dedicated system. AgriPro addresses this issue by offering progress tracking tools that allow users to monitor their plants' health and development.
+
+8. **Difficulty in Accessing Expert Advice:** Novice gardeners and farmers may struggle to find reliable expert advice when faced with challenges. AgriPro aims to connect users with knowledgeable individuals and professionals who can provide guidance and support.
+
+By addressing these problems, AgriPro intends to make gardening and farming more accessible, enjoyable, and successful for individuals of all skill levels, while also contributing to more sustainable and greener practices in plant care and cultivation.
