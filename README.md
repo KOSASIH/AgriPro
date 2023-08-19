@@ -3,7 +3,9 @@
 # AgriPro
 AgriPro is a cutting-edge mobile application designed to revolutionize the way gardeners and farmers tackle plant diseases. 
 
-Introducing AgriPro: Your Ultimate Farming and Gardening Companion!
+# Introducing 
+
+**AgriPro**: Your Ultimate Farming and Gardening Companion!
 
 AgriPro is a cutting-edge mobile application designed to revolutionize the way gardeners and farmers tackle plant diseases. With the power of advanced image recognition technology, AgriPro empowers users to effortlessly identify and combat plant ailments, ensuring healthier yields and flourishing gardens.
 
