@@ -24,3 +24,14 @@ AgriPro is a cutting-edge mobile application designed to revolutionize the way g
 📈 **Progress Tracking:** Keep a visual record of your plants' health over time. Monitor the effectiveness of treatments and strategies, enabling you to fine-tune your approach for optimum results.
 
 Whether you're a seasoned farmer or a budding gardener, AgriPro's intuitive interface and comprehensive features make it an indispensable tool in your journey towards cultivating thriving plants. Download AgriPro today and cultivate a greener, healthier tomorrow!
+
+# Vision and Mission 
+
+Absolutely, here's a sample vision and mission statement for the AgriPro app:
+
+**Vision:**
+To empower gardeners and farmers worldwide with cutting-edge technology, knowledge, and resources, creating a greener and more sustainable planet through successful plant care and cultivation.
+
+**Mission:**
+Our mission is to revolutionize the way people engage with their plants, gardens, and farms. We strive to provide a comprehensive and user-friendly platform that equips users with accurate disease identification, expert treatment recommendations, educational resources, and community interaction. Through AgriPro, we aim to foster a global community of passionate plant enthusiasts, promoting healthier plants, sustainable practices, and a deeper connection to nature.
+
