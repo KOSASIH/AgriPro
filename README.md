@@ -108,4 +108,4 @@ Open a pull request, describing your changes and the problem they solve.
 Participate in the review process and make necessary adjustments.
 
 # License
-EdCore is released under the MIT License. Feel free to use, modify, and distribute the code as per the terms of the license.
+EdCore is released under the MIT License. Feel free to use, modify, and distribute the code as per the terms of the [license] .
