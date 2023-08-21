@@ -10,7 +10,8 @@ AgriPro is a cutting-edge mobile application designed to revolutionize the way g
 3. [The Problem We Want To Solve](#The-Problem-we-want-to-solve)
 4. [Our Technologies](#Our-Technologies)
 5. [Contributing](#Contributing)
-6. [Licence](#Licence) 
+6. [Licence](#Licence)
+7. [Authors](https://github.com/KOSASIH) 
 
 # Introducing 
 
