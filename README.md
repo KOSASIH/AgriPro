@@ -116,7 +116,7 @@ EdCore is released under the MIT License. Feel free to use, modify, and distribu
 
 [Authors](https://github.com/KOSASIH) 
 
-# Our Roadmap
+# Roadmap
 
 **Quarter 1: Discovery and Planning**
 - Define the core functionality of the AgriPro app, including image recognition and disease identification.
