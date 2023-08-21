@@ -7,11 +7,11 @@ AgriPro is a cutting-edge mobile application designed to revolutionize the way g
 
 1. [Introducing](#introducing)
 2. [Vision And Mission](#vision-and-mission)
-3. [The Problem We Want To Solve](#The-Problem-we-want-to-solve)
-4. [Our Technologies](#Our-Technologies)
-5. [Contributing](#Contributing)
-6. [Licence](#Licence)
-7. [Authors](#Authors)
+3. [The Problem We Hope To Solve](#the-problem-we-hope-to-solve)
+4. [Our Technologies](#our-technologies)
+5. [Contributing](#contributing)
+6. [Licence](#licence)
+7. [Authors](#authors)
 8. [Roadmap](#roadmap) 
 
 # Introducing 
