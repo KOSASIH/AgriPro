@@ -5,7 +5,8 @@ AgriPro is a cutting-edge mobile application designed to revolutionize the way g
 
 # Content
 
-1. [Introducing](#introducing) 
+1. [Introducing](#introducing)
+2. [Vision Anda Mission](#vision-and-mission) 
 
 # Introducing 
 
