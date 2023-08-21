@@ -6,7 +6,8 @@ AgriPro is a cutting-edge mobile application designed to revolutionize the way g
 # Content
 
 1. [Introducing](#introducing)
-2. [Vision Anda Mission](#vision-and-mission) 
+2. [Vision And Mission](#vision-and-mission)
+3. [The Problem We Want To Solve](#The-Problem-we-want-to-solve) 
 
 # Introducing 
 
@@ -39,7 +40,7 @@ To empower gardeners and farmers worldwide with cutting-edge technology, knowled
 **Mission:**
 Our mission is to revolutionize the way people engage with their plants, gardens, and farms. We strive to provide a comprehensive and user-friendly platform that equips users with accurate disease identification, expert treatment recommendations, educational resources, and community interaction. Through AgriPro, we aim to foster a global community of passionate plant enthusiasts, promoting healthier plants, sustainable practices, and a deeper connection to nature.
 
-# The Problem we want to solve 
+# The Problem We Want To Solve 
 
 Here are some of the problems that the AgriPro app aims to address:
 
