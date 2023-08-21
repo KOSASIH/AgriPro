@@ -11,7 +11,8 @@ AgriPro is a cutting-edge mobile application designed to revolutionize the way g
 4. [Our Technologies](#Our-Technologies)
 5. [Contributing](#Contributing)
 6. [Licence](#Licence)
-7. [Authors](#Authors) 
+7. [Authors](#Authors)
+8. [Roadmap](#Our-Roadmap) 
 
 # Introducing 
 
@@ -114,3 +115,5 @@ EdCore is released under the MIT License. Feel free to use, modify, and distribu
 # Authors 
 
 [Authors](https://github.com/KOSASIH) 
+
+# Our Roadmap
