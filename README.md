@@ -8,7 +8,9 @@ AgriPro is a cutting-edge mobile application designed to revolutionize the way g
 1. [Introducing](#introducing)
 2. [Vision And Mission](#vision-and-mission)
 3. [The Problem We Want To Solve](#The-Problem-we-want-to-solve)
-4. [Our Technologies](#Our-Technologies) 
+4. [Our Technologies](#Our-Technologies)
+5. [Contributing](#Contributing)
+6. [Licence](#Licence) 
 
 # Introducing 
 
@@ -91,3 +93,19 @@ Here are some of the key technologies that power the AgriPro app:
 11. **QR Code Scanning:** The app incorporates QR code scanning to provide quick access to specific plant profiles, disease information, and relevant resources by scanning plant tags or labels.
 
 By harnessing these cutting-edge technologies, AgriPro offers a comprehensive and user-friendly platform that empowers gardeners and farmers to make informed decisions, access valuable resources, and connect with a supportive community of plant enthusiasts.
+
+# Contributing
+We welcome contributions from the community to enhance EdCore's features and capabilities. To contribute, follow these steps:
+
+Fork the repository and create a new branch for your feature/fix.
+
+Make your changes, add tests if applicable, and ensure the code follows the project's coding standards.
+
+Commit your changes and push the branch to your fork.
+
+Open a pull request, describing your changes and the problem they solve.
+
+Participate in the review process and make necessary adjustments.
+
+# License
+EdCore is released under the MIT License. Feel free to use, modify, and distribute the code as per the terms of the license.
