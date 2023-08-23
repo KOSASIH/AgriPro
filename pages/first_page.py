@@ -16,34 +16,40 @@ lister = ClarifaiResourceLister(stub, auth.user_id, auth.app_id, page_size=16)
 st.title("Simple example to list inputs")
 
 with st.form(key="data-inputs"):
-  mtotal = st.number_input(
-      "Select number of inputs to view in a table:", min_value=10, max_value=100)
-  submitted = st.form_submit_button('Submit')
+    mtotal = st.number_input("Select number of inputs to view in a table:",
+                             min_value=10,
+                             max_value=100)
+    submitted = st.form_submit_button("Submit")
 
 if submitted:
-  if mtotal is None or mtotal == 0:
-    st.warning("Number of inputs must be provided.")
-    st.stop()
-  else:
-    st.write("Number of inputs in table will be: {}".format(mtotal))
+    if mtotal is None or mtotal == 0:
+        st.warning("Number of inputs must be provided.")
+        st.stop()
+    else:
+        st.write("Number of inputs in table will be: {}".format(mtotal))
 
-  # Stream inputs from the app
-  all_inputs = []
-  for inp in lister.inputs_generator():
-    all_inputs.append(inp)
+    # Stream inputs from the app
+    all_inputs = []
+    for inp in lister.inputs_generator():
+        all_inputs.append(inp)
 
-    if len(all_inputs) >= mtotal:
-      break
+        if len(all_inputs) >= mtotal:
+            break
 
-  # Get some common stuff out of the inputs.
-  data = []
-  for inp in all_inputs:
-    data.append({
-        "id": inp.id,
-        "status": inp.status.description,
-        "created_at": timestamp_pb2.Timestamp.ToDatetime(inp.created_at),
-        "modified_at": timestamp_pb2.Timestamp.ToDatetime(inp.modified_at),
-        "metadata": json_format.MessageToDict(inp.data.metadata),
-    })
+    # Get some common stuff out of the inputs.
+    data = []
+    for inp in all_inputs:
+        data.append({
+            "id":
+            inp.id,
+            "status":
+            inp.status.description,
+            "created_at":
+            timestamp_pb2.Timestamp.ToDatetime(inp.created_at),
+            "modified_at":
+            timestamp_pb2.Timestamp.ToDatetime(inp.modified_at),
+            "metadata":
+            json_format.MessageToDict(inp.data.metadata),
+        })
 
-  st.dataframe(data)
+    st.dataframe(data)
