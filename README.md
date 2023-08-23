@@ -1,3 +1,4 @@
+[![Greetings](https://github.com/KOSASIH/AgriPro/actions/workflows/greetings.yml/badge.svg)](https://github.com/KOSASIH/AgriPro/actions/workflows/greetings.yml)
 [![Dependency Review](https://github.com/KOSASIH/AgriPro/actions/workflows/dependency-review.yml/badge.svg)](https://github.com/KOSASIH/AgriPro/actions/workflows/dependency-review.yml)
 [![Mark stale issues and pull requests](https://github.com/KOSASIH/AgriPro/actions/workflows/stale.yml/badge.svg)](https://github.com/KOSASIH/AgriPro/actions/workflows/stale.yml)
 [![CodeQL](https://github.com/KOSASIH/AgriPro/actions/workflows/codeql.yml/badge.svg)](https://github.com/KOSASIH/AgriPro/actions/workflows/codeql.yml)
