@@ -1,3 +1,4 @@
+[![CodeFactor](https://www.codefactor.io/repository/github/kosasih/agripro/badge)](https://www.codefactor.io/repository/github/kosasih/agripro)
 [![DeepSource](https://app.deepsource.com/gh/KOSASIH/AgriPro.svg/?label=active+issues&show_trend=true&token=fyqFSID1p-6kcbKGh2Jg9XvK)](https://app.deepsource.com/gh/KOSASIH/AgriPro/?ref=repository-badge)
 [![Greetings](https://github.com/KOSASIH/AgriPro/actions/workflows/greetings.yml/badge.svg)](https://github.com/KOSASIH/AgriPro/actions/workflows/greetings.yml)
 [![Dependency Review](https://github.com/KOSASIH/AgriPro/actions/workflows/dependency-review.yml/badge.svg)](https://github.com/KOSASIH/AgriPro/actions/workflows/dependency-review.yml)
