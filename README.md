@@ -145,7 +145,7 @@ EdCore is released under the MIT License. Feel free to use, modify, and distribu
 
 # Authors 
 
-[Authors](https://github.com/KOSASIH) 
+[Authors](https://www.linkedin.com/in/kosasih-81b46b5a) 
 
 # Roadmap
 
