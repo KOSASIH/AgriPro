@@ -16,9 +16,9 @@ lister = ClarifaiResourceLister(stub, auth.user_id, auth.app_id, page_size=16)
 st.title("Simple example to list inputs")
 
 with st.form(key="data-inputs"):
-    mtotal = st.number_input("Select number of inputs to view in a table:",
-                             min_value=10,
-                             max_value=100)
+    mtotal = st.number_input(
+        "Select number of inputs to view in a table:", min_value=10, max_value=100
+    )
     submitted = st.form_submit_button("Submit")
 
 if submitted:
@@ -39,17 +39,14 @@ if submitted:
     # Get some common stuff out of the inputs.
     data = []
     for inp in all_inputs:
-        data.append({
-            "id":
-            inp.id,
-            "status":
-            inp.status.description,
-            "created_at":
-            timestamp_pb2.Timestamp.ToDatetime(inp.created_at),
-            "modified_at":
-            timestamp_pb2.Timestamp.ToDatetime(inp.modified_at),
-            "metadata":
-            json_format.MessageToDict(inp.data.metadata),
-        })
+        data.append(
+            {
+                "id": inp.id,
+                "status": inp.status.description,
+                "created_at": timestamp_pb2.Timestamp.ToDatetime(inp.created_at),
+                "modified_at": timestamp_pb2.Timestamp.ToDatetime(inp.modified_at),
+                "metadata": json_format.MessageToDict(inp.data.metadata),
+            }
+        )
 
     st.dataframe(data)
