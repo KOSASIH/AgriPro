@@ -49,6 +49,9 @@ name = "python"
 [[analyzers]]
 name = "php"
 
+  [analyzers.meta]
+  bootstrap_files = ["src"]
+
 [[analyzers]]
 name = "cxx"
 
@@ -108,3 +111,9 @@ name = "gofumpt"
 
 [[transformers]]
 name = "gofmt"
+
+[[transformers]]
+name = "scalafmt"
+
+[[transformers]]
+name = "ruff"
